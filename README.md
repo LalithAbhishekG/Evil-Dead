@@ -9,7 +9,7 @@
 - **Genre:** Action / Survival  
 - **Engine:** Core by Manticore Games  
 - **Mode:** Single Player (Expandable to Multiplayer)  
-- **Developer:** Lalith Abhishek (for CS Project)
+- **Developer:** Lalith Abhishek , K V Barath , Deepak PS
 
 You play as a heroic survivor fighting to cleanse the cursed woods surrounding a haunted castle. The environment features dynamic lighting, health systems, door mechanics, and scripted sound effects to create a thrilling gameplay experience.
 
